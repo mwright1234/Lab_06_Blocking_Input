@@ -38,6 +38,5 @@ public class HighorLow {
         } else {
             System.out.println("Your guess was too high. Try again next time!");
         }
-
     }
 }
