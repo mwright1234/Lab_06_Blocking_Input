@@ -39,6 +39,5 @@ public class HighorLow {
             System.out.println("Your guess was too high. Try again next time!");
         }
 
-        in.close(); // Close the scanner to prevent resource leaks
     }
 }
